@@ -1,0 +1,3 @@
+-internet ile ilgili birtakım sorunlar yaşadım bu yüzden çalışmam yarım 
+-fakat fake api ile bootstrep cartına resim ekledim
+-Bootstrep de css çalışmıyor herşeyi denedim
